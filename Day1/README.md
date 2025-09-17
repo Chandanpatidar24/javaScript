@@ -1,18 +1,9 @@
-# JavaScript  Journey 
-I'm Starting my **Full stack Devloper journery** and will be Doumenting my Progress at here.
-Every Day, I'll Push updates to  GitHub to build consistency and track my Growth .
+## Day 1: Hello World!
+Today, I learned how to connect an external JavaScript file to an HTML file. I wrote my first lines of code using `console.log()` and `alert()` to display messages.
 
+* **Code:** `day-01` folder
+* **Topics:** `console.log()`, `alert()`, linking `main.js`
 
-### Goals 
-* Learn **JavaScript** from **Basic -> Advaced** 
-* Build Projects at Different Levels:
-  
-  * beginner Projects
-  * Intermediate Projects
-  * Advnced Projects
+## Mini Task :
+print Your name inside console.log() & alert popup 
 
-
-### 📂 Structure
-
-* Daily practice code
-* Mini projects to apply new concepts
