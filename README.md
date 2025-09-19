@@ -28,4 +28,5 @@ Every Day, I'll Push updates to  GitHub to build consistency and track my Growth
 ## 📂 Daily Progress
 - [Day 1](./Day1/README.md)
 - [Day 2](./Day2/README.md)
+- [Day 3](./Day3/README.md)
 - ... (and so on)
