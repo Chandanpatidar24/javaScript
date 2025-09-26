@@ -34,4 +34,5 @@ Every Day, I'll Push updates to  GitHub to build consistency and track my Growth
 - [Day 6](./Day6/README.md)
 - [Day 7](./Day7/README.md)
 - [Day 8](./Day8/README.md)
+- [Day 9](./Day9/REAMDE.md)
 - ... (and so on)
