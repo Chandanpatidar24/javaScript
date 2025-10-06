@@ -1,8 +1,7 @@
-Absolutely! Let's do a **very basic Day 10 guide for learning JavaScript objects**. I'll keep it simple and practical.
 
 ---
 
-## **JavaScript Objects – Day 10 Basics**
+## **JavaScript Objects – Day 10 **
 
 ### 1. **What is an Object?**
 
