@@ -42,4 +42,5 @@ Every Day, I'll Push updates to  GitHub to build consistency and track my Growth
 - [Day 14 JavaScript Array Search Methods](./Day14/README.md)
 - [Day 15 JavaScript Array Sort](./Day15/README.md)
 - [Day 16 JavaScript Math Object](./Day16/README.md)
+- [Day 17 JavaScript DOM Basics](./Day17/README.md)
 - ... (and so on)
