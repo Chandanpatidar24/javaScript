@@ -185,7 +185,7 @@ Change the text of an `<h2>` element with the ID `"main-title"` to say `"Hello f
 
 ###  Task 2: Style an Element
 
-Change the background color of a `<div>` with the class `"box"` to **lightblue** using JS.
+Change the background color of a `<div>` with the class `"box"` to **lightblue** using JS
 
 ---
 
